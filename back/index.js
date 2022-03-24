@@ -9,7 +9,6 @@ const mysql = require("mysql2");
 
 var host = "miele.riccardo.tave.osdb.it";
 var user = "c185_uno";
-var password = "Az-92604";
 
 const connection = mysql.createConnection({
   host: host,
